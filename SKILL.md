@@ -154,6 +154,7 @@ trigger_keywords:
 **专家蒸馏增量（2026-09-06 并入）**
 
 - `references/expert-distill/mvp-designer-蒸馏.md` — MVP 团队「颜好看」：寄存器二分（Brand/Product 定标杆）、10 级评审优先级（无障碍→图表，带反模式）、8 类产品风格速配、三轴设计刻度（DESIGN_VARIANCE/MOTION_INTENSITY/VISUAL_DENSITY）、反 AI 模板 7 大罪具体 CSS 表现、反射拒绝字体列表（Inter 禁作展示字体）——与像素君引擎互补：像素君管"做美做对"，本文档管"动手前定标杆 + 评审按优先级"
+- `references/expert-distill/design-md-蒸馏.md` — 设计系统架构师「规范范」：DESIGN.md 9 章标准结构（AI 可消费的设计契约）、58 品牌参考速查（8 行业）、跨品牌风格混搭、设计交付直出模式
 
 **资产层**
 
