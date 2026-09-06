@@ -151,6 +151,10 @@ trigger_keywords:
 - `references/quality-checklist.md` — 无障碍与设计 QA 走查清单
 - `references/design-quality/` — 30 份手艺参考：typography / color-and-contrast / spatial-design / motion-design / interaction-design / responsive-design / ux-writing / cognitive-load / heuristics-scoring / personas / bolder / quieter / colorize / overdrive / arrange / typeset / adapt / animate / delight / onboard / audit / critique / polish / harden / optimize / extract / normalize / distill / clarify / teach-impeccable
 
+**专家蒸馏增量（2026-09-06 并入）**
+
+- `references/expert-distill/mvp-designer-蒸馏.md` — MVP 团队「颜好看」：寄存器二分（Brand/Product 定标杆）、10 级评审优先级（无障碍→图表，带反模式）、8 类产品风格速配、三轴设计刻度（DESIGN_VARIANCE/MOTION_INTENSITY/VISUAL_DENSITY）、反 AI 模板 7 大罪具体 CSS 表现、反射拒绝字体列表（Inter 禁作展示字体）——与像素君引擎互补：像素君管"做美做对"，本文档管"动手前定标杆 + 评审按优先级"
+
 **资产层**
 
 - `assets/canvas-fonts/` — 81 个开源自托管字体（含 OFL 授权），本地引用避免外链
