@@ -1,6 +1,6 @@
 # UI/UX 设计师方案产出指南 · 领域方法论
 
-> 本文档是 `ux-design-guide` 技能的领域知识库。SKILL.md 中的 5 步流程会按需读取对应章节。
+> 本文档是 `ui-designer-guide` 技能方案层（链路阶段 A）的领域知识库。SKILL.md 会按需读取对应章节。
 
 ---
 
